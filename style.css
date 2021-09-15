@@ -1,0 +1,10 @@
+body{background: #9AECDB;}
+h1{text-align: center;background: rgb(0, 200, 0);margin-right: 310px;margin-left: 310px;}
+p{color: rgb(0, 0, 0) ;font-size: 30px;}
+
+input{}
+
+ul{margin: 0;padding: 0;list-style: none;}
+li{display: inline-block;}
+a{background: #c23616;padding: 10px 10px;color: #dcdde1;text-decoration: none;border-radius: 10px;}
+a:hover{background: #44bd32;}
